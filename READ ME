@@ -1,0 +1,3 @@
+We studied the temperature of electrical substation on its nodes through a comparison of linear regression decision tree regressor and SVM regression.  
+We tried to minimize the RMSE by trying many models, espescially the SVM model. The best result is provided with the decision tree regressor.   
+Compared to the linear model, the SVM regressor is slightly better.  
